@@ -1,0 +1,43 @@
+{
+    "students": [
+        {
+            "FirstName":"Karama",
+            "LastName":"Ramadhan",
+            "Surname":"Chilumba",
+            "Registration_Number":"T/UDOM/2018/03634",
+            "Programme":"BSc-CE"
+        },
+
+        {
+            "FirstName":"Henry",
+            "LastName":"Salvatory",
+            "Surname":"Mkama",
+            "Registration_Number":"T/UDOM/2018/03616",
+            "Programme":"BSc-CE"
+        },
+
+        {
+            "FirstName":"Epiphania",
+            "LastName":"Elias",
+            "Surname":"Masatu",
+            "Registration_Number":"T/UDOM/2018/03625",
+            "Programme":"BSc-CE"
+        },
+
+        {
+            "FirstName":"Saimon",
+            "LastName":"Malima",
+            "Surname":"Christopher",
+            "Registration_Number":"T/UDOM/2018/06576",
+            "Programme":"BSc-CE"
+        },
+
+        {
+            "FirstName":"Baraka",
+            "LastName":"Joseph",
+            "Surname":"Kisasi",
+            "Registration_Number":"T/UDOM/2018/06577",
+            "Programme":"BSc-CE"
+        }
+    ]
+}
